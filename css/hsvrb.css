@@ -1,0 +1,22 @@
+body {
+  margin: 10px;
+  font-size: 15px;
+  font-family: 'Ubuntu', arial, serif;
+}
+
+#header {
+  border-bottom: 3px solid red;
+}
+
+#content {
+  margin-top: 25px;
+}
+
+#footer {
+  margin-top: 25px;
+}
+
+.center {
+  text-align: center;
+}
+
